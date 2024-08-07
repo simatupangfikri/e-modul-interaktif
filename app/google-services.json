@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935728306859",
+    "project_id": "e-modul-interaktif-e4906",
+    "storage_bucket": "e-modul-interaktif-e4906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935728306859:android:20b9b9fba0977eca93f5ee",
+        "android_client_info": {
+          "package_name": "com.app.e_modulinteraktif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAjRwiPhsb7EIUjk-y_chxy5mLeuusa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
